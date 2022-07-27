@@ -21,7 +21,7 @@
 
 Here's the link: https://webpage-nexter.netlify.app
 
-<p align="center"><a href="https://ibb.co/Ycfwr3P"><img src="https://i.ibb.co/VgM5KtJ/pig.jpg" alt="pig" border="0"></a>
+<p align="center"><a href="https://ibb.co/L6VZphR"><img src="https://i.ibb.co/gwkRgF9/nexter.jpg" alt="nexter" border="0"></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
